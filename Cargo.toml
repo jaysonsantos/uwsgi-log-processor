@@ -1,0 +1,10 @@
+[package]
+authors = ["Jayson Reis <santosdosreis@gmail.com>"]
+name = "process-uwsgi-logs"
+version = "0.1.0"
+[dependencies]
+csv = "*"
+error-chain = "*"
+flate2 = "*"
+glob = "*"
+nom = "*"
